@@ -10,7 +10,7 @@ A **production-ready** Flask REST API featuring **JWT authentication**, comprehe
 
 Built with industry-standard patterns: **Application Factory**, **Blueprints**, **Service Layer**, **Repository Abstraction**, **Docker**, and **GitHub Actions CI/CD**.
 
----
+---edit by tasmiya jasmine
 
 ## 📑 Table of Contents
 
@@ -1334,4 +1334,6 @@ SOFTWARE.
 <p align="center">
   Made with ❤️ using Flask
 </p>
+
+
 
